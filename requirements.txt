@@ -1,0 +1,3 @@
+aiogram
+git+https://github.com/krypton-byte/anonclient
+python-dotenv==0.20.0
